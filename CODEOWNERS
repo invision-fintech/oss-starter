@@ -1,0 +1,2 @@
+# Public repos: reviews go to public-maintainers, not core (core may include people who shouldn't be exposed as public-facing maintainers).
+* @invision-fintech/public-maintainers
